@@ -17,7 +17,7 @@ CONSUMER_SECRET = ''
 ACCESS_TOKEN = ''
 ACCESS_TOKEN_SECRET = ''
 
-VIDEO_FILENAME = 'testdownload.mp4'
+VIDEO_FILENAME = ''
 
 oauth = OAuth1(CONSUMER_KEY,
   client_secret=CONSUMER_SECRET,
